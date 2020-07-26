@@ -7,9 +7,9 @@ This backend is still not deployed. In order to enjoy the full project, you shlo
 
 Please, clone this repo and : 
 
-Step 1 : create a database with the name "trainingChkpt4" <br>
-Step 2 : be careful to the application.properties : maybe you should point your localhost on a different port than 3306 (depending on how you've created your mysql local instance) <br>
-Step 3 : run the command "mvn-spring-boot:run"
+ - Step 1 : create a database with the name "trainingChkpt4" 
+ - Step 2 : be careful to the application.properties : maybe you should point your localhost on a different port than 3306 (depending on how you've created your mysql local instance) 
+ - Step 3 : run the command "mvn-spring-boot:run"
 
 Hope it will work for you ! :)
 
